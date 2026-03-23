@@ -111,7 +111,7 @@ ul { list-style: none; }
 .subnav a:hover, .subnav a.on { color: var(--c-purple); border-color: var(--c-purple); }
 
 /* ── Hero ───────────────────────────────────────── */
-.hero { background: var(--c-dark); padding: 56px 0 0; }
+.hero { background: var(--c-purple); padding: 56px 0 0; }
 .hero-inner {
   max-width: var(--max-w); margin: 0 auto; padding: 0 5%;
   display: grid; grid-template-columns: 1fr 460px;
